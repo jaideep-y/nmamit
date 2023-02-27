@@ -10,7 +10,8 @@
     border-color: #2E3192;
     border-radius: 50px;
     font-weight: 500;
-    padding: 15px 50px;
+    padding:7px 15px;
+    margin-right:10px;
 }
 .navbarbutton:hover{
     background-color:#fff;
